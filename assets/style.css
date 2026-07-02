@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(135deg,#4e73df,#1cc88a);
+    min-height:100vh;
+}
+
+.card{
+    border:none;
+    border-radius:15px;
+}
+
+.login-card{
+    box-shadow:0 15px 40px rgba(0,0,0,.3);
+}
+
+.login-logo i{
+    font-size:60px;
+}
+
+.login-logo h2{
+    font-weight:bold;
+}
+
+.input-group-text{
+    background:#fff;
+}
+
+.form-control{
+    border-radius:10px;
+}
+
+.btn{
+    border-radius:10px;
+    font-weight:bold;
+}
+
+a{
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
